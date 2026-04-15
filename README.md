@@ -103,15 +103,11 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-<a href="https://www.linkedin.com/in/dharshan-hariharan-a51277290">
+<a href="https://www.linkedin.com/in/asir-roberts-aa66b428b/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://dharshan-hariharan.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
-</a>
-
-<a href="mailto:dharshanhariharan2468@gmail.com">
+<a href="mailto:mr.asirroberts7@gmail.com@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
