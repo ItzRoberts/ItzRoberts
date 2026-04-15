@@ -77,14 +77,6 @@
 
 ---
 
-## 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blackdaisy2026-commits&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
----
-
-
 ## 🐍 Contribution Snake Animation  
 
 <p align="center">
